@@ -1,10 +1,10 @@
 import pygame
 
-from const import *
-from board import Board
-from dragger import Dragger
-from config import Config
-from square import Square
+from src.const import *
+from src.board import Board
+from src.dragger import Dragger
+from src.config import Config
+from src.square import Square
 
 class Game:
 

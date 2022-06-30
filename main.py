@@ -1,9 +1,9 @@
 import pygame
 import sys
-from const import *
-from game import Game
-from square import Square
-from move import Move
+from src.const import *
+from src.game import Game
+from src.square import Square
+from src.move import Move
 
 
 class Main:
